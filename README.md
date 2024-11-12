@@ -2,8 +2,10 @@
 
 Project name: END TO END AUTONOMOUS DRIVING
 
+Anaconda and Conda enviroment is used for isolated and specific install of Python and Carla/Unreal Engine dependencies
+
 World and Actor Simulation was done in Carla software utilizing the Unreal Engine.
 
-Interaction and manipulation of the actors, blueprint and world was done with python programming language
+Interaction and manipulation of the actors, weather, blueprint and world was done with python 3.x.x
 
 Selected Vehicle is being trained using Reinforcement Learning Algorithm 
