@@ -2,7 +2,7 @@
 
 Project name: END TO END AUTONOMOUS DRIVING
 
-Anaconda and Conda enviroment is used for isolated and to install specific vesion of Python and Carla/Unreal Engine dependencies
+Anaconda and Conda enviroment is used for isolated and to install specific vesion of Python, software packages and Carla/Unreal Engine dependencies
 
 Jupyter notebook and VScode(web) for code writing and testing
 
