@@ -1,4 +1,5 @@
-#This is similar to routing tables in the networking space, OR control rules/role-based access in the network security/identity space where the agent cannot do anything outside
+#This is similar to scripting of a particular task in system administration, routing tables in the networking space, pattern matching in some 
+#aspects of email security/endpoint security, OR control rules/role-based access in the network security/identity space where the agent cannot do anything outside
 #the specified ruleset or configuration. It is not very practical in the real world of driving because the players driving skills are not confined like in a game world.
 #This ego vehicle has a Camera sensor and Lidar sensor to facilitate the driving
 #!/usr/bin/env python
