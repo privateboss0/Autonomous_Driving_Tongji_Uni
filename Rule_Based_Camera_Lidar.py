@@ -32,7 +32,7 @@ def do_nothing(image):
     cv2.waitKey(1)
     return img3/255.0
 
-def od_something(point_cloud):
+def od_everything(point_cloud):
     data = np.copy(np.frombuffer(point_cloud.raw_data, dtype=np.dtype('f4')))
     data = np.reshape(data, (int(data.shape[0] / 4), 4))
     
@@ -109,7 +109,7 @@ try:
     actor_list.append(lidar_sensor)
 
     
-    lidar_sensor.listen(lambda data: od_something(point_cloud))
+    lidar_sensor.listen(lambda data: od_everything(point_cloud))
 
     #sleep for 300 seconds, afterwhich you end:
     time.sleep(300)
