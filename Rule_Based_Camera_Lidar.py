@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 
+# ------------------------------------------------------------------
+#
+#    Copyright (C) 2024 privateboss01
+#
+#    This program is free software; you can redistribute it and/or
+#    modify it under the terms of version 2 of the GNU General Public
+#    License published by the Free Software Foundation.
+#
+# ------------------------------------------------------------------
 import glob
 import os
 import sys
