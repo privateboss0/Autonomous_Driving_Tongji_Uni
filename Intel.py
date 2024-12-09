@@ -7,7 +7,7 @@
 # For a copy, see <https://opensource.org/licenses/MIT>.
 
 """
-    Assisted vehicle control from client side.
+    Assisted vehicle control from client side. My program mounts on this code
 """
 
 from __future__ import print_function
